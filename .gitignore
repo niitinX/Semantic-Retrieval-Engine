@@ -1,0 +1,24 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+a.out
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# Local C++ reference files to keep out of GitHub
+main.cpp
+httplib.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+legacy/
